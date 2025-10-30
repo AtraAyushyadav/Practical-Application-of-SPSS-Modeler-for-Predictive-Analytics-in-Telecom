@@ -1,0 +1,9 @@
+“Predictive Analytics (BCADS15301) – Practical Work: Data Integration and Analysis”:
+
+In this practical, Ayush Yadav (Roll No. 1230258136, BCADS31) performed data integration and analysis using IBM SPSS Modeler in the context of a telecommunications project. The objective was to combine multiple datasets into a single master dataset for predictive analytics and modeling.
+
+The practical involved importing and processing various telecom datasets such as call data (Q1, Q2), customer data, product data, and tariff data. Different SPSS Modeler nodes were used throughout the process, including Merge, Append, Sort, Aggregate, Distinct, Type, Set to Flag, and Sample nodes.
+
+Each node played a specific role—combining records, cleaning duplicate entries, aggregating fields, merging datasets on key fields like customer_id and tariff, and extracting sample data for analysis. The workflow concluded with the use of a Table node to view the final integrated and sampled dataset.
+
+Through this practical, the student learned how to efficiently combine, clean, and sample data from multiple sources using SPSS Modeler, preparing it for further predictive analytics applications in the telecom domain.
